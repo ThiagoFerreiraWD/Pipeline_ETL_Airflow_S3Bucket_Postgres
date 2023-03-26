@@ -11,6 +11,14 @@ At the end, a report is displayed in Power BI containing the data extracted from
   <img src="https://github.com/ThiagoFerreiraWD/Pipeline_ETL_Airflow_S3Bucket_Postgres/blob/main/architecture.png">
 </p>
 
+<p align="center">
+  <img src="https://github.com/ThiagoFerreiraWD/Pipeline_ETL_Airflow_S3Bucket_Postgres/blob/main/dag_ingest_api.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ThiagoFerreiraWD/Pipeline_ETL_Airflow_S3Bucket_Postgres/blob/main/dag_sensor_s3bucket.png">
+</p>
+
 ***
 
 ## Tools and languages used:
