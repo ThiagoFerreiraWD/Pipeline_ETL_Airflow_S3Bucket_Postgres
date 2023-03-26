@@ -4,6 +4,8 @@ The project in question was created to perform a complete data pipeline. Apache 
 
 At the end, a report is displayed in Power BI containing the data extracted from the database.
 
+*Note: The extracted data is fictional and provided by the [Random User API.](https://randomuser.me)*
+
 # <p align=center>Data Pipeline Architecture</p>
 <p align="center">
   <img src="https://github.com/ThiagoFerreiraWD/Pipeline_ETL_Airflow_S3Bucket_Postgres/blob/main/architecture.png">
@@ -26,8 +28,11 @@ At the end, a report is displayed in Power BI containing the data extracted from
 1. **dags/scripts_dag_transform_data.py:** Script containing Python functions used in the DAG "dag_sensor_s3bucket.py";
 1. **sql/criar_tabela_dw_users.sql:** SQL code responsible for creating a table in PostgreSQL;
 1. **architecture.png:** Designed architecture;
-1. **customer_report.pbix:** Final Power BI report; and
-1. **docker-compose.yaml:** Docker Compose file with the configurations for Apache Airflow and PostgreSQL.
+1. **customer_report.pbix:** Final Power BI report;
+1. **dag_ingest_api.png:** Image of the successful execution of DAG "dag_ingest_api.py";
+1. **dag_sensor_s3bucket.png:** Image of the successful execution of DAG "dag_sensor_s3bucket.py";
+1. **docker-compose.yaml:** Docker Compose file with the configurations for Apache Airflow and PostgreSQL; and
+1. **report_customers.jpg:** Example image of the Power BI report. Note that the data is fictitious, provided by the Random User API.
 
 ## Contacts:
 <div>   
