@@ -26,6 +26,7 @@ At the end, a report is displayed in Power BI containing the data extracted from
 <img width=30 src="https://avatars.githubusercontent.com/u/33643075?s=200&v=4" />
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img width=30 src="https://user-images.githubusercontent.com/15157491/75435753-6929fc80-594b-11ea-9e19-f78223916862.png" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 </div>
 
 ## Description of the files:
